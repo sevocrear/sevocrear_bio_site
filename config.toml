@@ -1,8 +1,8 @@
-baseURL = "http://example.org/"
+baseURL = "https://sevocrear.github.io/"
 languageCode = "en-us"
 paginate = 6
 theme = "portio"
-title = "Portio"
+title = "sevocrear"
 # Main Menu
 [[menu.main]]
 name = "Home"
