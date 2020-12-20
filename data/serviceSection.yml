@@ -2,44 +2,29 @@
 enable: true
 topTitle: Working Area
 title: >
-  ## Creative Services
+  ## Services I Provide
 
-  Enjoy team diversity and increase their networks among others people in
-  various fields by provided.
+  Here is the list of services I am pleased to provide. If even something you are interesting in isn't presented below, you can still try to contact me.
 service:
   - content: >
-      #### UI/UX Design 
+      #### Robotics 
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      I can control robots, derive its kinematics and dynamics. Also, I can do some vision for it. For example, I worked a lot with OpenCV.
+    image: images/service/robot.svg
+  - content: >
+      #### Programming
+
+      I program in Python, C and C++. I can do some universities tasks, create telegram bots, work with data bases, e.t.c.
+    image: images/service/program.svg
+
+  - content: >
+      #### Arduino 
+
+      I really like to program Arduino. I'd be glad to do projects starting from blinking to controlling several arduinos via ethernet from the website.
+    image: images/service/arduino.svg
+
+  - content: >
+      #### Web Design 
+
+      I've finished 0.5 year web design course in 2019. I can design titles, checkbooks, favicons, stories, posts, static adverts, e.t.c. 
     image: images/service/ui-ux.svg
-  - content: >
-      #### Web Development 
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/web.svg
-  - content: >
-      #### Creative Design 
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/creative.svg
-  - content: >
-      #### Branding
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/branding.svg
-  - content: >
-      #### UI/UX Design
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/ui-ux.svg
-  - content: >
-      #### Web Development
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/web.svg

@@ -5,15 +5,29 @@ title: >
   ## What People are Say About Me?
 
 testimonial:
-  - name: Ryan Cook
-    comment: Takimata sanctus est lorem ipsum dolor sit amet lorem ipsum dolor sit amet consetur sad ipscing elitr sed diam nonumy eirmod tempor invidunt labore dolore magna.
-    time: Jan 20, 2020
+  - name: Vladimir
+    comment: Everything was at the highest level. Tasks were done on time, explained and well-structured. (translated)
+    time: Dec 19, 2020
     star: 5
-  - name: Justin Trudo
-    comment: Takimata sanctus est lorem ipsum dolor sit amet lorem ipsum dolor sit amet consetur sad ipscing elitr sed diam nonumy eirmod tempor invidunt labore dolore magna.
-    time: Jan 16, 2020
-    star: 4
-  - name: Franky Filth
-    comment: Takimata sanctus est lorem ipsum dolor sit amet lorem ipsum dolor sit amet consetur sad ipscing elitr sed diam nonumy eirmod tempor invidunt labore dolore magna.
-    time: Mar 08, 2020
-    star: 3
+  - name: Ivan
+    comment: Ilya coped twice ahead of schedule. I highly recommend a specialist. (translated)
+    time: Dec 04, 2020
+    star: 5
+  - name: Vladislav
+    comment: Ilya is a professional specialist. He quickly and efficiently helped me with the YoloV4 + Human Detection project. (translated)
+    time: Nov 30, 2020
+    star: 5
+
+  - name: Igor
+    comment: Ilya, you are awesome. Telegram bot works like a charm. (translated)
+    time: Nov 25, 2020
+    star: 5
+  - name: Anton
+    comment: Well Done. Highly recommend this specialist. (translated)
+    time: Nov 21, 2020
+    star: 5
+
+  - name: Ksenia
+    comment: Everything was fine. Ilya fastly helped me to deploy my project on git. (translated)
+    time: Aug 03, 2020
+    star: 5
