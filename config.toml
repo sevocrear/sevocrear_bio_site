@@ -62,9 +62,9 @@ logo = "images/site-navigation/logo.png"
 
 [params.address]
 address = "420500 Innopolis, Russia."
-email = "hello@example.com"
+email = "sevocrear@gmail.com"
 openingHours = "Open from 10am to 6pm"
-phone = "+7 (985) 095 27 27"
+# phone = "+7 (985) 095 27 27"
 
 [params.map]
 APIkey = "AIzaSyBVD82A8IiQA-F2AeMAacdMtYO_Con5Hy0"
