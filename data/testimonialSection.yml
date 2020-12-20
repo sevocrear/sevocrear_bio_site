@@ -2,7 +2,7 @@
 enable: true
 topTitle: Testimonials
 title: >
-  ## What People are Say About Me?
+  ## What Do People Say About Me?
 
 testimonial:
   - name: Vladimir
@@ -10,7 +10,7 @@ testimonial:
     time: Dec 19, 2020
     star: 5
   - name: Ivan
-    comment: Ilya coped twice ahead of schedule. I highly recommend a specialist. (translated)
+    comment: Ilya coped twice ahead of schedule. I highly recommend this specialist. (translated)
     time: Dec 04, 2020
     star: 5
   - name: Vladislav

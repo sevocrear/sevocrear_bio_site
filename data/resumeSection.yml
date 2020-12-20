@@ -4,10 +4,10 @@ topTitle: My Resume
 title: >
   ## My Expertises
 
-  Under Education button you can see the universities, some courses I graduated. 
+  Clicking on "Education" button you can see the universities, some courses I graduated. 
   
 
-  Under "Experiences" button you can find list of jobs and big projects, competitions I was involved in.  
+  Clicking on "Experiences" button you can find the list of jobs and big projects, competitions I was involved in.  
 
 
 tab1Name: Education
@@ -29,7 +29,7 @@ education:
   - content: >
       #### Master in Computer Science
 
-      Graduate Innopolis University. The track is Robotics. Thesis project is dedicated to the dynamic walking of quadruped robot
+      Graduating Innopolis University. Thesis project is dedicated to the dynamic walking of quadruped robot
     time: 2019-2021
 
 experience:
@@ -38,9 +38,9 @@ experience:
       
       ###### Engineering Assistant
 
-      * Developed ROS nodes to control the robot barista
+      * Developed ROS nodes to control the barista robot
 
-      * Designed the stands for cups and the gripper for the robot itself
+      * Designed the stands for cups and the gripper for the robot
     time: 2018-2019
 
   - content: >

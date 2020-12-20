@@ -4,27 +4,42 @@ topTitle: Working Area
 title: >
   ## Services I Provide
 
-  Here is the list of services I am pleased to provide. If even something you are interesting in isn't presented below, you can still try to contact me.
+  Here is the list of services I am pleased to provide. Even if something you are interesting in isn't presented below, you can still try to contact me.
+
 service:
   - content: >
       #### Robotics 
 
-      I can control robots, derive its kinematics and dynamics. Also, I can do some vision for it. For example, I worked a lot with OpenCV.
+      I can control robots, derive its kinematics and dynamics. 
+      
+      
+      Also, I can provide vision for it. For example, I worked a lot with OpenCV.
     image: images/service/robot.svg
   - content: >
       #### Programming
 
-      I program in Python, C and C++. I can do some universities tasks, create telegram bots, work with data bases, e.t.c.
+      I program in Python, C and C++. 
+      
+      
+      I can do some university tasks, create telegram bots, work with data bases, e.t.c.
     image: images/service/program.svg
 
   - content: >
       #### Arduino 
 
-      I really like to program Arduino. I'd be glad to do projects starting from blinking to controlling several arduinos via ethernet from the website.
+      I'd be glad to participate in any projects related to Arduino. 
+      
+      
+      It's user-friendly and it's a great solution for prototyping.
+
+
     image: images/service/arduino.svg
 
   - content: >
       #### Web Design 
 
-      I've finished 0.5 year web design course in 2019. I can design titles, checkbooks, favicons, stories, posts, static adverts, e.t.c. 
+      I've finished half-yearly web design course in 2019. 
+      
+      
+      I can design presentation, checkbooks, favicons, posts, easy logos, static adverts, e.t.c. 
     image: images/service/ui-ux.svg
