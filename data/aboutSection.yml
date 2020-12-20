@@ -14,5 +14,5 @@ content: >
 button1Name: Hire me
 button2Name: Download CV
 button1Target: contact
-button2Target: https://drive.google.com/uc?export=download&id=1sLI1PcuXUykGJruWCsF0lInMuZuAmRVe
+button2Target: files/CV/main.pdf
 image: images/about/about-img.png
