@@ -1,9 +1,0 @@
----
-enable: true
-topTitle: Blog
-title: >
-  ## Recent Article
-
-  View my last posts in blog
-
-buttonTarget: blog

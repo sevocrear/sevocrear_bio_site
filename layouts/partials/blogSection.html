@@ -1,5 +1,6 @@
-{{ with .Site.Data.blogSection }}
-{{ if .enable }}
+{{ with index .Site.Data.blogSection .Site.Language.Lang }}
+{{ range . }}}
+
 <section class="section blog-preview" id="blog">
 	<div class="blog-preview__shape">
 		<img src="images/blog/blog-shape.svg" alt="blog shape" />

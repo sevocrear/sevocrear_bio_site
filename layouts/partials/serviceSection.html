@@ -1,5 +1,5 @@
-{{ with .Site.Data.serviceSection }}
-{{ if .enable }}
+{{ with index .Site.Data.serviceSection .Site.Language.Lang }}
+{{ range . }}}
 <section class="section service" id="service">
     <div class="service__background">
         <svg viewBox="0 0 1283 1126">

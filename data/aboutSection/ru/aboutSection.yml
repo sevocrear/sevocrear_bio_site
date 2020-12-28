@@ -1,0 +1,20 @@
+---
+enable: true
+# topTitle: Info
+title: >
+  ##  Обо мне
+
+  Бла 
+  
+  Right now I am studying for a master’s degree in Innopolis University, Russia. I specialize in Robotics and Mechatronics.
+content: >
+  ### I program and design robotics systems.
+
+  Since childhood I have loved to assemble schemes and program them to do the staff I want. And I always try to do my best to find most fitable and easy-to-implement solution.
+
+  But robotics is not only one sphere I work in. Also, I program telegram bots, do some university and olympiad tasks, e.t.c. 
+button1Name: Hire me
+button2Name: Download CV
+button1Target: ru/contact
+button2Target: ru/files/CV/main.pdf
+image: ru/images/about/about-img.png

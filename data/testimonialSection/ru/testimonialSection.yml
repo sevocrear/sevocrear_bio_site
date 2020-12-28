@@ -1,0 +1,33 @@
+---
+enable: true
+topTitle: Отзывы
+title: >
+  ## What Do People Say About Me?
+
+testimonial:
+  - name: Vladimir
+    comment: Everything was at the highest level. Tasks were done on time, explained and well-structured. (translated)
+    time: Dec 19, 2020
+    star: 5
+  - name: Ivan
+    comment: Ilya coped twice ahead of schedule. I highly recommend this specialist. (translated)
+    time: Dec 04, 2020
+    star: 5
+  - name: Vladislav
+    comment: Ilya is a professional specialist. He quickly and efficiently helped me with the YoloV4 + Human Detection project. (translated)
+    time: Nov 30, 2020
+    star: 5
+
+  - name: Igor
+    comment: Ilya, you are awesome. Telegram bot works like a charm. (translated)
+    time: Nov 25, 2020
+    star: 5
+  - name: Anton
+    comment: Well Done. Highly recommend this specialist. (translated)
+    time: Nov 21, 2020
+    star: 5
+
+  - name: Ksenia
+    comment: Everything was fine. Ilya fastly helped me to deploy my project on git. (translated)
+    time: Aug 03, 2020
+    star: 5

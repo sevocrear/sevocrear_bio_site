@@ -1,59 +1,121 @@
 baseURL = "https://sevocrear.github.io/"
 languageCode = "en-us"
-paginate = 6
+paginate = 6 # Define the number of posts per page
 theme = "portio"
 title = "sevocrear"
-# Main Menu
-[[menu.main]]
-name = "Home"
-url = "#home"
-weight = 1
-[[menu.main]]
-name = "About"
-url = "#about"
-weight = 2
-[[menu.main]]
-name = "Service"
-url = "#service"
-weight = 3
-[[menu.main]]
-name = "Work"
-url = "#portfolio"
-weight = 4
-[[menu.main]]
-name = "Resume"
-url = "#resume"
-weight = 5
-[[menu.main]]
-name = "Blog"
-url = "#blog"
-weight = 6
-[[menu.main]]
-name = "Contact"
-url = "#contact"
-weight = 7
+defaultContentLanguageInSubdir = true
 
-# Sitemap Menu
-[[menu.sitemap]]
-name = "About me"
-url = "#about"
-weight = 1
-#[[menu.sitemap]]
-#name = "Frequently Ask Question"
-#url = "#"
-#weight = 2
-#[[menu.sitemap]]
-#name = "Privacy & Policy"
-#url = "#"
-#weight = 3
-[[menu.sitemap]]
-name = "Latest Article"
-url = "#blog"
-weight = 2
+DefaultContentLanguage = "en"
+[languages]
+  [languages.en]
+    languageName = "English"
+    weight = 1
+    [languages.en.params]
+    contactLink = "en/contact"
+    blogPageURL = "en/blog"
+    [[languages.en.menu.main]]
+    name = "Home"
+    url = "#home"
+    weight = 1
+    [[languages.en.menu.main]]
+    name = "About"
+    url = "#about"
+    weight = 2
+    [[languages.en.menu.main]]
+    name = "Service"
+    url = "#service"
+    weight = 3
+    [[languages.en.menu.main]]
+    name = "Work"
+    url = "#portfolio"
+    weight = 4
+    [[languages.en.menu.main]]
+    name = "Resume"
+    url = "#resume"
+    weight = 5
+    [[languages.en.menu.main]]
+    name = "Blog"
+    url = "#blog"
+    weight = 6
+    [[languages.en.menu.main]]
+    name = "Contact"
+    url = "/contact"
+    weight = 7
+
+    # Sitemap Menu
+    [[languages.en.menu.sitemap]]
+    name = "About me"
+    url = "#about"
+    weight = 1
+    #[[menu.sitemap]]
+    #name = "Frequently Ask Question"
+    #url = "#"
+    #weight = 2
+    #[[menu.sitemap]]
+    #name = "Privacy & Policy"
+    #url = "#"
+    #weight = 3
+    [[languages.en.menu.sitemap]]
+    name = "Latest Article"
+    url = "#blog"
+    weight = 2
+
+  [languages.ru]
+    languageName = "Russian"
+    weight = 2
+    # Main Menu
+    [languages.ru.params]
+    contactLink = "ru/contact"
+    blogPageURL = "ru/blog"
+    [[languages.ru.menu.main]]
+    name = "Главная"
+    url = "#home"
+    weight = 1
+    [[languages.ru.menu.main]]
+    name = "Обо мне"
+    url = "#about"
+    weight = 2
+    [[languages.ru.menu.main]]
+    name = "Услуги"
+    url = "#service"
+    weight = 3
+    [[languages.ru.menu.main]]
+    name = "Портфолио"
+    url = "#portfolio"
+    weight = 4
+    [[languages.ru.menu.main]]
+    name = "Резюме"
+    url = "#resume"
+    weight = 5
+    [[languages.ru.menu.main]]
+    name = "Блог"
+    url = "#blog"
+    weight = 6
+    [[languages.ru.menu.main]]
+    name = "Контакты"
+    url = "/contact"
+    weight = 7
+
+
+    # Sitemap Menu
+    [[languages.ru.menu.sitemap]]
+    name = "About me"
+    url = "#about"
+    weight = 1
+    #[[menu.sitemap]]
+    #name = "Frequently Ask Question"
+    #url = "#"
+    #weight = 2
+    #[[menu.sitemap]]
+    #name = "Privacy & Policy"
+    #url = "#"
+    #weight = 3
+    [[languages.ru.menu.sitemap]]
+    name = "Latest Article"
+    url = "#blog"
+    weight = 2
 
 [params]
-blogPageURL = "blog"
-contactLink = "contact"
 copyright = "All right reserved copyright © Portio 2020"
 footerLogo = "images/contact/widget-logo.png"
 formspreeURL = "https://formspree.io/f/mzbkkzbe"

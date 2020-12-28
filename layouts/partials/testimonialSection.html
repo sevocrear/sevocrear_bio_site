@@ -1,5 +1,5 @@
-{{ with .Site.Data.testimonialSection }}
-{{ if .enable }}
+{{ with index .Site.Data.testimonialSection .Site.Language.Lang }}
+{{ range . }}}
 <section class="section testimonial">
     <div class="testimonial__background_shape">
         <svg viewBox="0 0 1920 79">

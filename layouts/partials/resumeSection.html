@@ -1,5 +1,5 @@
-{{ with .Site.Data.resumeSection }}
-{{ if .enable }}
+{{ with index .Site.Data.resumeSection .Site.Language.Lang }}
+{{ range . }}}
 <section class="section resume" id="resume">
     <div class="resume__background"></div>
     <div class="container">

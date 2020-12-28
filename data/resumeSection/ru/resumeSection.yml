@@ -1,0 +1,70 @@
+---
+enable: true
+topTitle: Резюме
+title: >
+  ## My Expertises
+
+  Clicking on "Education" button you can see the universities, some courses I graduated. 
+  
+
+  Clicking on "Experiences" button you can find the list of jobs and big projects, competitions I was involved in.  
+
+
+tab1Name: Education
+tab2Name: Experiences
+tab1Target: education
+tab2Target: experience
+
+education:
+  - content: >
+      #### Bachelor in Mechatronics and Robotics
+
+      Graduated Bauman Moscow State Technical University. Thesis project was dedicated to the development and control of a vertical walking three-link robot
+
+      ###### Achievements: 
+
+      * The best student of the robotics department (2018)
+
+    time: 2015-2019
+  - content: >
+      #### Master in Computer Science
+
+      Graduating Innopolis University. Thesis project is dedicated to the dynamic walking of quadruped robot
+    time: 2019-2021
+
+experience:
+  - content: >
+      #### JBL Robotics
+      
+      ###### Engineering Assistant
+
+      * Developed ROS nodes to control the barista robot
+
+      * Designed the stands for cups and the gripper for the robot
+    time: 2018-2019
+
+  - content: >
+      #### Innopolis University Robotics Lab
+      
+      ###### Intern
+
+      * Developed computer vision for UR10 manipulator in order to get ping-pong ball position using RealSense D435i w.r.t. the robot base.
+
+    time: 2019, jun - 2020, sep
+
+  - content: >
+      #### Aerobot 2020 Competition
+      
+      ###### Computer Vision
+
+      "Racoon Lab" team. 
+
+      * Developed ROS node so drone could follow the line on the ground
+
+      * Designed ROS node so drone could alocate the landing site and remember it in order to return back after completing the mission
+
+      ###### Achievements: 
+      
+      * Winning a competition
+
+    time: 2019, oct - 2020, nov
