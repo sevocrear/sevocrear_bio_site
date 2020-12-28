@@ -2,69 +2,73 @@
 enable: true
 topTitle: Резюме
 title: >
-  ## My Expertises
+  ## Бэкграунд
 
-  Clicking on "Education" button you can see the universities, some courses I graduated. 
+  Нажав на кнопку «Образование», Вы увидите университеты и курсы, которые я окончил. 
   
 
-  Clicking on "Experiences" button you can find the list of jobs and big projects, competitions I was involved in.  
+  Нажав на кнопку «Опыт», Вы найдете список крупных проектов, соревнований, в которых я принимал участие.
 
 
-tab1Name: Education
-tab2Name: Experiences
+tab1Name: Образование
+tab2Name: Опыт
 tab1Target: education
 tab2Target: experience
 
 education:
   - content: >
-      #### Bachelor in Mechatronics and Robotics
+      #### Бакалавр Мехатроники и Робототехники
 
-      Graduated Bauman Moscow State Technical University. Thesis project was dedicated to the development and control of a vertical walking three-link robot
+      
+      Окончил МГТУ им. Н. Э. Баумана. Дипломный проект был посвящен разработке и управлению трехзвенным вертикально шагающим роботом.
 
-      ###### Achievements: 
+      ###### Достижение: 
 
-      * The best student of the robotics department (2018)
+      * Лучший студент кафедры робототехники (2018)
 
     time: 2015-2019
   - content: >
-      #### Master in Computer Science
+      #### Магистр Компьютерных Наук
 
-      Graduating Innopolis University. Thesis project is dedicated to the dynamic walking of quadruped robot
+      
+      Оканчиваю в 2021 г. Университет Иннополис. Дипломная работа посвящена динамической ходьбе четвероногого робота.
+
     time: 2019-2021
 
 experience:
   - content: >
       #### JBL Robotics
       
-      ###### Engineering Assistant
+      ###### Помощник Инженера
 
-      * Developed ROS nodes to control the barista robot
+      * Разработаны ноды ROS для управления роботом-бариста
 
-      * Designed the stands for cups and the gripper for the robot
+      * Разработал подставки для чашек и захват для робота.
+
     time: 2018-2019
 
   - content: >
-      #### Innopolis University Robotics Lab
+      #### Лаборатория Робототехники Университета Иннополис
       
-      ###### Intern
+      ###### Стажер
 
-      * Developed computer vision for UR10 manipulator in order to get ping-pong ball position using RealSense D435i w.r.t. the robot base.
+      * Разработал компьютерное зрение для манипулятора UR10, чтобы определять положение мяча для настольного тенниса с помощью RealSense D435i по отношению к базе робота.
 
-    time: 2019, jun - 2020, sep
+    time: 2019, июн - 2020, сен
 
   - content: >
-      #### Aerobot 2020 Competition
+      #### Соревнование "Аэробот 2020"
       
-      ###### Computer Vision
+      ###### Специалист по Компьютерному Зрению
 
-      "Racoon Lab" team. 
+      Участвовал в команде "Raccoon Lab" от Университета Иннополис.
 
-      * Developed ROS node so drone could follow the line on the ground
+      * Разработал ROS ноду, чтобы дрон мог следовать по линии на земле
 
-      * Designed ROS node so drone could alocate the landing site and remember it in order to return back after completing the mission
+      * Разработал ROS ноду, чтобы дрон мог определить место посадки и запомнить его, чтобы вернуться обратно после завершения миссии.
 
-      ###### Achievements: 
+      ###### Достижение: 
       
-      * Winning a competition
+      * Победа в соревновании
 
-    time: 2019, oct - 2020, nov
+    time: 2019, окт - 2020, нов

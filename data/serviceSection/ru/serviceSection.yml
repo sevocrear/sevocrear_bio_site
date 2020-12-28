@@ -2,44 +2,47 @@
 enable: true
 topTitle: Область деятельности
 title: >
-  ## Services I Provide
+  ## Услуги, Которые Я Предлагаю
 
-  Here is the list of services I am pleased to provide. Even if something you are interesting in isn't presented below, you can still try to contact me.
+  Ниже представлен список услуг, которые я рад Вам предоставить. В случае, если то, что вас интересует, не представлено ниже, Вы все равно можете попробовать связаться со мной.
 
 service:
   - content: >
-      #### Robotics 
+      #### Робототехника
 
-      I can control robots, derive its kinematics and dynamics. 
+      Я могу управлять роботами, рассчитывать кинематику, динамику и пр.
       
       
-      Also, I can provide vision for it. For example, I worked a lot with OpenCV.
+      Кроме того, я могу сделать компьютерное зрение для него. К примеру, я много работал с OpenCV.
     image: images/service/robot.svg
   - content: >
-      #### Programming
+      #### Программирование
 
-      I program in Python, C and C++. 
+      
+      Я программирую на Python, C и C++.
       
       
-      I can do some university tasks, create telegram bots, work with data bases, e.t.c.
+      Я могу выполнять университетские и курсовые задания, создавать телеграмм-ботов, работать с базами данных и т. д.
     image: images/service/program.svg
 
   - content: >
       #### Arduino 
 
-      I'd be glad to participate in any projects related to Arduino. 
+      
+      Буду рад поучаствовать в любых проектах, связанных с Arduino. 
       
       
-      It's user-friendly and it's a great solution for prototyping.
+      Ардуино чрезвычайно удобны в использовании и являются отличным решением для быстрого создания прототипов, а также некомплексных проектов.
 
 
     image: images/service/arduino.svg
 
   - content: >
-      #### Web Design 
+      #### Веб-Дизайн
 
-      I've finished half-yearly web design course in 2019. 
+      
+      Я закончил полугодовой курс веб-дизайна в 2019 году.
       
       
-      I can design presentation, checkbooks, favicons, posts, easy logos, static adverts, e.t.c. 
+      Я могу создавать презентации, чеклисты, фавиконы, постыв различных соцсетях, простые логотипы, статичные рекламные объявления и т. д.
     image: images/service/ui-ux.svg

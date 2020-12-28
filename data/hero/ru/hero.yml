@@ -2,11 +2,12 @@
 enable: true
 topTitle:  Привет, меня зовут Илья Севостьянов
 content: >
-  # I am here to help you with Robotics & IT Projects
+  # Я здесь, чтобы помочь тебе с Робототехникой и IT 
 
-  Entrust your project or task to the real specialist who will do it at the highest level and on time
-buttonName: Contact me
+  Доверьте свой проект или задачу специалисту, который сделает это на высшем уровне и в срок.
+
+buttonName: Связаться со мной
 buttonURL: ru/contact
-image: ru/images/hero/hero.jpg
+image: images/hero/hero.jpg
 # videoThumb: images/hero/popup-thumb.png
 # videoURL: https://www.youtube.com/watch?v=dQw4w9WgXcQ

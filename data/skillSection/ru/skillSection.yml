@@ -2,11 +2,12 @@
 enable: true
 topTitle: Мои Навыки
 content: >
-  ## Why hire me for your next project?
+  ## Зачем нанимать именно меня для Вашего проекта?
 
-  My goal is to build the professional and easy-to-implement project. Below you can see the main list of my hard skills
+  
+  Моя цель - построить профессиональный и качественный продукт. Ниже вы можете увидеть основной список моих навыков
 
-image: ru/images/skill/skill_image.png
+image: images/skill/skill_image.png
 
 skill:
   - title: ROS
@@ -22,7 +23,7 @@ skill:
   - title: C
     percent: 50  
 
-  - title: CAD Systems (Solidworks, Compas 3D)
+  - title: САПР (Solidworks, Compas 3D)
     percent: 65 
 
   - title: TeX

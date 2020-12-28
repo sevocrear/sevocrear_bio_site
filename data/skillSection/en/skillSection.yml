@@ -6,7 +6,7 @@ content: >
 
   My goal is to build the professional and easy-to-implement project. Below you can see the main list of my hard skills
 
-image: en/images/skill/skill_image.png
+image: images/skill/skill_image.png
 
 skill:
   - title: ROS

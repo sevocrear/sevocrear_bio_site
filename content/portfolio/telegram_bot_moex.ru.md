@@ -2,20 +2,21 @@
 title: MOEX Telegram Бот
 date: 2020-12-15
 thumbnail: images/portfolio/MOEX_bot.png
-service: Telegram Bot
+service: Telegram бот (акции MOEX)
 client: Владислав З.
-shortDescription: It was needed to program telegram bot which will take some stock info rom moex.ru, extract it and output to the subscribed users each day at pre-defined time
-challenge: Use Python language and TelegramBotAPI so users could use the bot in order to know top 10 volatile stock of the day and their trade volumes.
+shortDescription: Требовалось запрограммировать telegram Бота, который будет брать некоторую информацию о торгах с moex.ru, извлекать ее и выводить подписанным на бота пользователям каждый день в заданное время.
+challenge: Использование языка Python и TelegramBotAPI, чтобы пользователи могли обращаться к  боту, чтобы узнать 10 самых волатильных акций дня и объемы их торговли.
 
-solution: telebot, matplotlib and pandas libraries were used in order to do create the bot. Also, multithreading was implemented in order to diverge interaction with the user and auto sending stock info to all the users.
+solution: Для создания бота использовались библиотеки telebot, matplotlib и pandas. Также была реализована многопоточность, чтобы разграничить взаимодействие с пользователем и автоматическую отправку информации об акциях всем пользователям.
 
 ---
 
-I decided to use *.npy file in order to store users IDs and max value of the stock they'd like to see in the chat. So, the idea was to constrain the price of the stocks for certain users.
+Для хранения пользовательских данных (ID) я решил использовать файл * .npy. Также туда заносится индивидуальная максимальная стоимость акций, которые пользователи хотели бы видеть в чате с ботом. Таким образом, идея заключалась в том, чтобы ограничить цену акций для определенных пользователей.
 
 ![Bot](/images/portfolio/bot_MOEX.png)
 
-The example result of the bot output you can see above.
+
+Пример результата вывода бота вы можете увидеть выше.
 
 
-Also, it should be mentioned that the bot could be deployed on the server in order to be fully automated.
+Также следует отметить, что бот может быть развернут на сервере для полной автоматизации.

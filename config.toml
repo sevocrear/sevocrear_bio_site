@@ -60,6 +60,11 @@ DefaultContentLanguage = "en"
     url = "#blog"
     weight = 2
 
+    [languages.en.params.address]
+    address = "420500 Innopolis, Russia"
+    email = "sevocrear@gmail.com"
+    openingHours = "Open from 8 a.m. to 8 p.m."
+
   [languages.ru]
     languageName = "Russian"
     weight = 2
@@ -99,7 +104,7 @@ DefaultContentLanguage = "en"
 
     # Sitemap Menu
     [[languages.ru.menu.sitemap]]
-    name = "About me"
+    name = "Обо мне"
     url = "#about"
     weight = 1
     #[[menu.sitemap]]
@@ -111,9 +116,14 @@ DefaultContentLanguage = "en"
     #url = "#"
     #weight = 3
     [[languages.ru.menu.sitemap]]
-    name = "Latest Article"
+    name = "Последняя статья"
     url = "#blog"
     weight = 2
+
+    [languages.ru.params.address]
+    address = "420500 Иннополис, Россия"
+    email = "sevocrear@gmail.com"
+    openingHours = "Открыт для заявок с 8 до 20"
 
 [params]
 copyright = "All right reserved copyright © Portio 2020"
@@ -121,12 +131,6 @@ footerLogo = "images/contact/widget-logo.png"
 formspreeURL = "https://formspree.io/f/mzbkkzbe"
 googleAnalytics = "G-RZPCD5E5NB"
 logo = "images/site-navigation/logo.png"
-
-[params.address]
-address = "420500 Innopolis, Russia."
-email = "sevocrear@gmail.com"
-openingHours = "Open from 10am to 6pm"
-# phone = "+7 (985) 095 27 27"
 
 [params.map]
 APIkey = "AIzaSyBVD82A8IiQA-F2AeMAacdMtYO_Con5Hy0"
