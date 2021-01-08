@@ -18,9 +18,9 @@ skill:
   - title: MATLAB
     percent: 70  
   - title: C++
-    percent: 60
+    percent: 50
   - title: C
-    percent: 50  
+    percent: 60  
 
   - title: CAD Systems (Solidworks, Compas 3D)
     percent: 65 
