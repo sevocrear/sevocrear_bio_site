@@ -2,7 +2,7 @@
 title: "Python: Функции Map и Filter"
 date: 2021-01-02 # YYYY-MM-DD
 featureImage: images/allpost/python-post.png
-# postImage: images/single-blog/feature-image.jpg
+postImage: images/single-blog/Python Wallpaper.jpg
 ---
 
 Это первый мой пост в блоге, который я пишу. И я сразу хотел бы сказать, зачем и почему я вообще решил вести блог. 
