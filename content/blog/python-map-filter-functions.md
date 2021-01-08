@@ -51,7 +51,7 @@ print(summed_numbers)
 [3.5, 11.5, 11.0, 18.0, 10.5]
 ```
 
-## filter() функция
+## filter() function
 The python's ```filter()``` function takes a lambda function together with a list as the arguments. It has the following syntax:
 
 ``` py
