@@ -11,7 +11,7 @@ solution: telebot, matplotlib and pandas libraries were used in order to do crea
 
 ---
 
-I decided to use *.npy file in order to store users IDs and max value of the stock they'd like to see in the chat. So, the idea was to constrain the price of the stocks for certain users.
+I decided to use *.npy file in order to store users IDs and max value of the stock they'd like to see in the chat. So, the idea was to constrain the price of the stocks for certain users. After that, MySQL could be implemented.
 
 ![Bot](/images/portfolio/bot_MOEX.png)
 
