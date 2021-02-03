@@ -25,5 +25,8 @@ skill:
   - title: CAD Systems (Solidworks, Compas 3D)
     percent: 80
 
+  - title: OpenCV
+    percent: 70
+
   - title: TeX
     percent: 80
