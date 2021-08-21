@@ -24,5 +24,5 @@ content: >
 button1Name: Нанять меня
 button2Name: Загрузить CV
 button1Target: ru/contact
-button2Target: ru/files/CV/main.pdf
+button2Target: ru/files/CV/Russian_CV.pdf
 image: images/about/about-img.png
