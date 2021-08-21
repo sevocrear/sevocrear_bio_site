@@ -11,7 +11,7 @@ title: >
 
 
 tab1Name: Education
-tab2Name: Experiences
+tab2Name: Experience
 tab1Target: education
 tab2Target: experience
 
@@ -29,16 +29,18 @@ education:
   - content: >
       #### Master in Computer Science
 
-      Graduating Innopolis University. Thesis project is dedicated to the dynamic walking of quadruped robot
+      Graduated Innopolis University. Thesis project was dedicated to the dynamic walking of quadruped robot
 
       ###### Achievements: 
 
       * [Diploma for excellent academic achievements in Autumn and Spring Semesters in 2020 year](../../../en/files/inno_diploma_excellent_academic.jpg)
+      
+      * [Diploma for outstanding contribution to science, 2021 year](../../../ru/files/diploma_for_outstanding_contribution_to_science.jpg)
     time: 2019-2021
 
 experience:
   - content: >
-      #### JBL Robotics
+      #### JBL Robotics, Moscow, Russia
       
       ###### Engineering Assistant
 
@@ -48,7 +50,7 @@ experience:
     time: 2018-2019
 
   - content: >
-      #### Innopolis University Robotics Lab
+      #### Innopolis University Robotics Lab, Innopolis, Russia
       
       ###### Intern
 
@@ -59,7 +61,7 @@ experience:
     time: 2019, jun - 2020, sep
 
   - content: >
-      #### Aerobot 2020 Competition
+      #### Aerobot 2020 Competition, Taganrog, Russia
       
       ###### Computer Vision
 
@@ -74,3 +76,20 @@ experience:
       * Winning a competition
 
     time: 2019, oct - 2020, nov
+
+  - content: >
+      #### Autonomous Technologies Laboratory, Innopolis, Russia
+      
+      ###### Computer Vision Engineer
+
+      I participate in projects with autonomous vehicles and aircrafts
+
+      * Developed UAV visual positioning system for high-precision autonomous landing
+
+      * Contributed to UAV landing zone detection system for the task of safe autonomous landing
+
+      ###### Achievements: 
+      
+      * IEEE articles
+
+    time: 2021, фев --

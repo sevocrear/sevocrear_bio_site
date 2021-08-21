@@ -4,13 +4,20 @@ enable: true
 title: >
   ## About me
 
-  Right now I am studying for a master’s degree in Innopolis University, Russia. I specialize in Robotics and Mechatronics.
+  Computer Vision engineer, robotics engineer
 content: >
-  ### I program and design robotics systems.
+  ### I program and design robotics systems, computer vision systems.
 
-  Since childhood I have loved to assemble schemes and program them to do the staff I want. And I always try to do my best to find most fitable and easy-to-implement solution.
+  I received a bachelor's degree in mechatronics and robotics at Bauman Moscow State Technical University, after which I graduated a master's degree from Innopolis University, specializing in "Robotics and Computer Vision".
 
-  But robotics is not only one sphere I work in. Also, I program telegram bots, do some university and olympiad tasks, e.t.c. 
+
+  I have participated in many projects related both to robotic systems control and computer vision: UAV lane tracking, UAV landing platform detection, barista manipulator, ping-pong manipulator, car wash automation, four-legged robot and so on.
+
+
+  Now I am developing in the field of computer vision. In the future I see myself in this sphere exactly.
+
+
+  At the moment I am working in the Autonomous Technologies Laboratory of Innopolis University as a computer vision specialist.
 button1Name: Hire me
 button2Name: Download CV
 button1Target: en/contact

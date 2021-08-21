@@ -10,11 +10,11 @@ image: images/skill/skill_image.png
 
 skill:
   - title: ROS
-    percent: 75
+    percent: 80
   - title: Git
     percent: 80
   - title: Python
-    percent: 80
+    percent: 85
   - title: MATLAB
     percent: 70  
   - title: C++
@@ -23,10 +23,16 @@ skill:
     percent: 70  
 
   - title: CAD Systems (Solidworks, Compas 3D)
-    percent: 80
+    percent: 70
 
   - title: OpenCV
+    percent: 90
+
+  - title: Pytorch
     percent: 70
+
+  - title: Detectron2
+    percent: 80
 
   - title: TeX
     percent: 80

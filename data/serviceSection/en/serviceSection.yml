@@ -25,21 +25,31 @@ service:
     image: images/service/program.svg
 
   - content: >
-      #### Arduino 
+      #### Computer Vision
 
-      I'd be glad to participate in any projects related to Arduino. 
+      Can take part in the development of computer vision systems. 
+
+
+      Work with OpenCV, Pytorch, CUDA, have solid experience with sensors.
+      
+    image: images/service/cv.svg
+
+  # - content: >
+  #     #### Arduino 
+
+  #     I'd be glad to participate in any projects related to Arduino. 
       
       
-      It's user-friendly and it's a great solution for prototyping.
+  #     It's user-friendly and it's a great solution for prototyping.
 
 
-    image: images/service/arduino.svg
+  #   image: images/service/arduino.svg
 
-  - content: >
-      #### Web Design 
+  # - content: >
+  #     #### Web Design 
 
-      I've finished half-yearly web design course in 2019. 
+  #     I've finished half-yearly web design course in 2019. 
       
       
-      I can design presentation, checkbooks, favicons, posts, easy logos, static adverts, e.t.c. 
-    image: images/service/ui-ux.svg
+  #     I can design presentation, checkbooks, favicons, posts, easy logos, static adverts, e.t.c. 
+  #   image: images/service/ui-ux.svg

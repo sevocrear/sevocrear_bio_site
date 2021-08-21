@@ -1,10 +1,10 @@
 ---
 enable: true
-topTitle: Hello, I am Ilya Sevostyanov
+topTitle: Hello, I am Ilia Sevostianov
 content: >
-  # I am here to help you with Robotics & IT Projects
+  # I am here to help you with Robotics & CV Projects
 
-  Entrust your project or task to the real specialist who will do it at the highest level and on time
+  Entrust your project or task to the expert who will do it at the highest level and on time
 buttonName: Contact me
 buttonURL: en/contact
 image: images/hero/hero.jpg
