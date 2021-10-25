@@ -9,7 +9,7 @@ content: >
 image: images/skill/skill_image.png
 
 skill:
-  - title: ROS
+  - title: ROS 1/2
     percent: 80
   - title: Git
     percent: 80
@@ -22,7 +22,7 @@ skill:
   - title: C
     percent: 70  
 
-  - title: CAD Systems (Solidworks, Compas 3D)
+  - title: САПР (Solidworks, Compas 3D)
     percent: 70
 
   - title: OpenCV
@@ -31,6 +31,9 @@ skill:
   - title: Pytorch
     percent: 70
 
+  - title: NN-Deployment
+    percent: 60
+     
   - title: Detectron2
     percent: 80
 

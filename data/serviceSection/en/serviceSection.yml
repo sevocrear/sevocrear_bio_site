@@ -10,27 +10,25 @@ service:
   - content: >
       #### Robotics 
 
-      I can control robots, derive its kinematics and dynamics. 
+      Robotics control, kinematics and dynamics. 
       
-      
-      Also, I can provide vision for it. For example, I worked a lot with OpenCV.
     image: images/service/robot.svg
   - content: >
       #### Programming
 
-      I program in Python, C and C++. 
+      Python, C, MATLAB and C++. 
       
       
-      I can do some university tasks, create telegram bots, work with data bases, e.t.c.
+      University tasks, telegram bots, data bases, etc.
     image: images/service/program.svg
 
   - content: >
       #### Computer Vision
 
-      Can take part in the development of computer vision systems. 
+      The development of computer vision systems. 
 
 
-      Work with OpenCV, Pytorch, CUDA, have solid experience with sensors.
+      OpenCV, Pytorch, CUDA, Deployment, sensors choose, etc.
       
     image: images/service/cv.svg
 
