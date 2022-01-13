@@ -11,7 +11,7 @@ hugo server
 ```
 2. Save web site configuration
 ```
-hugo server
+hugo
 ```
 3. Copy it to the we site git repo
 ```

@@ -16,16 +16,45 @@ tab1Target: education
 tab2Target: experience
 
 education:
+
   - content: >
-      #### Bachelor in Mechatronics and Robotics
+      ####  Convolutional Neural Networks
 
-      Graduated Bauman Moscow State Technical University. Thesis project was dedicated to the development and control of a vertical walking three-link robot
+      
+      Completed 4th course in Deep Learning specialization from DeepLearning.AI.
 
-      ###### Achievements: 
+      * [Certificate](https://www.coursera.org/account/accomplishments/certificate/BE4BCELFSMGP)
+    time: jan, 2022
 
-      * The best student of the robotics department (2018)
+  - content: >
+      ####  Structuring Machine Learning Projects
 
-    time: 2015-2019
+      
+      Completed 3rd course in Deep Learning specialization from DeepLearning.AI.
+
+      * [Certificate](https://www.coursera.org/account/accomplishments/certificate/VU3YWM6EYQ4J)
+    time: dec, 2021
+
+  - content: >
+      #### Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
+
+      
+      Completed 2nd course in Deep Learning specialization from DeepLearning.AI.
+
+      * [Certificate](https://www.coursera.org/account/accomplishments/certificate/Y5KRD3B3RT95)
+
+    time: nov, 2021
+
+  - content: >
+      #### Neural Networks and Deep Learning
+
+      
+      Completed the 1st course from DeepLearning.AI about neural networks.
+
+      * [Certificate](https://www.coursera.org/account/accomplishments/certificate/2Z4YTDCCHFZU)
+
+    time: oct, 2021
+
   - content: >
       #### Master in Computer Science
 
@@ -39,36 +68,34 @@ education:
     time: 2019-2021
 
   - content: >
-      #### Neural Networks and Deep Learning
+      #### Bachelor in Mechatronics and Robotics
 
-      
-      Completed the course from DeepLearning.AI about neural networks.
+      Graduated Bauman Moscow State Technical University. Thesis project was dedicated to the development and control of a vertical walking three-link robot
 
-      * [Certificate](../../../ru/files/Coursera_Deep_Learning_Course.pdf)
+      ###### Achievements: 
 
-    time: окт., 2021
+      * The best student of the robotics department (2018)
+
+    time: 2015-2019
 
 experience:
-  - content: >
-      #### JBL Robotics, Moscow, Russia
-      
-      ###### Engineering Assistant
-
-      * Developed ROS nodes to control the barista robot
-
-      * Designed the stands for cups and the gripper for the robot
-    time: 2018-2019
 
   - content: >
-      #### Innopolis University Robotics Lab, Innopolis, Russia
+      #### Autonomous Technologies Laboratory, Innopolis, Russia
       
-      ###### Intern
+      ###### Computer Vision Engineer
 
-      * Developed computer vision for UR10 manipulator in order to get ping-pong ball position using RealSense D435i w.r.t. the robot base.
+      I participate in projects with autonomous vehicles and aircrafts
 
+      * Developed UAV visual positioning system for high-precision autonomous landing
 
-      * [Feedback and recommendations from supervisor](../../../ru/files/Igor_Gaponov_Recommendation_en.pdf)
-    time: 2019, jun - 2020, sep
+      * Contributed to UAV landing zone detection system for the task of safe autonomous landing
+
+      ###### Achievements: 
+      
+      * IEEE articles
+
+    time: 2021, feb --
 
   - content: >
       #### Aerobot 2020 Competition, Taganrog, Russia
@@ -88,18 +115,23 @@ experience:
     time: 2019, oct - 2020, nov
 
   - content: >
-      #### Autonomous Technologies Laboratory, Innopolis, Russia
+      #### Innopolis University Robotics Lab, Innopolis, Russia
       
-      ###### Computer Vision Engineer
+      ###### Intern
 
-      I participate in projects with autonomous vehicles and aircrafts
+      * Developed computer vision for UR10 manipulator in order to get ping-pong ball position using RealSense D435i w.r.t. the robot base.
 
-      * Developed UAV visual positioning system for high-precision autonomous landing
 
-      * Contributed to UAV landing zone detection system for the task of safe autonomous landing
+      * [Feedback and recommendations from supervisor](../../../ru/files/Igor_Gaponov_Recommendation_en.pdf)
+    time: 2019, jun - 2020, sep
 
-      ###### Achievements: 
+  - content: >
+      #### JBL Robotics, Moscow, Russia
       
-      * IEEE articles
+      ###### Engineering Assistant
 
-    time: 2021, фев --
+      * Developed ROS nodes to control the barista robot
+
+      * Designed the stands for cups and the gripper for the robot
+    time: 2018-2019
+

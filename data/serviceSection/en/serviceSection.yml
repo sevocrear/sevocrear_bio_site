@@ -19,7 +19,8 @@ service:
       Python, C, MATLAB and C++. 
       
       
-      University tasks, telegram bots, data bases, etc.
+      Various tasks that need to be programmed.
+      
     image: images/service/program.svg
 
   - content: >
