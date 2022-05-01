@@ -24,7 +24,7 @@
 					</div>
 					<div class="text-light footer__cta_content">
 						<span>Contact me</span>
-						<h2 class="mb-0">Let’s Start a Project</h2>
+						<h2 class="mb-0">Let's Сooperate</h2>
 					</div>
 					<div class="footer__cta_action">
 						<a class="btn btn-light btn-zoom" href="{{ .Site.Params.contactLink | absURL }}">Get in
@@ -59,6 +59,8 @@
 										class="fa fa-phone"></i></span>{{ $address.phone }}</a></li>
 						<li class="mb-2"><a class="text-light" href="mailto:{{ $address.email }}"><span class="fa-li"><i
 										class="fa fa-envelope"></i></span>{{ $address.email }}</a></li>
+						<li class="mb-2"><a class="text-light" href="tg://resolve?domain={{ $address.telegram }}"><span class="fa-li"><i
+							class="fa fa-telegram"></i></span>{{ $address.telegram }}</a></li>
 						<li class="mb-2">
 							<span class="fa-li"><i class="fa fa-map-marker"></i></span>{{ $address.address }}</a>
 						</li>

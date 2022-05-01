@@ -19,12 +19,10 @@ skill:
   - title: MATLAB
     percent: 70  
   - title: C++
-    percent: 70
-  - title: C
-    percent: 70  
+    percent: 60
 
-  - title: САПР (Solidworks, Compas 3D)
-    percent: 55
+  - title:  Solidworks, Compas 3D
+    percent: 50
 
   - title: OpenCV
     percent: 90
@@ -34,7 +32,10 @@ skill:
 
   - title: NN-Deployment
     percent: 65
-     
+  
+  - title: clearML
+    percent: 60
+    
   - title: Detectron2
     percent: 80
 

@@ -74,9 +74,10 @@
               <img src="{{ "images/contact/phone.svg" | absURL }}" alt="phone" />
             </div>
           </div>
-          <h4>Email</h4>
+          <h4>Contacts</h4>
           <p>
-            <a href="mailto:{{ $address.email }}">{{ $address.email }}</a>
+            <a href="mailto:{{ $address.email }}">{{ $address.email }}</a>  	
+            <a href="tg://resolve?domain={{ $address.telegram }}">{{ $address.telegram }} </a>
           </p>
 
         </div>
@@ -105,7 +106,7 @@
   </div>
 </section>
 
-<section class="contact-form">
+<!-- <section class="contact-form">
   <div class="container">
     <div class="row">
       <div class="col-lg-6">
@@ -156,6 +157,6 @@
       </div>
     </div>
   </div>
-</section>
+</section> -->
 
 {{ end }}

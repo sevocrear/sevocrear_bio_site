@@ -29,7 +29,7 @@ service:
       The development of computer vision systems. 
 
 
-      OpenCV, Pytorch, CUDA, Deployment, sensors choose, etc.
+      OpenCV, Pytorch, TensorFlow, Deployment, sensors choose, sensors calbiration, clearML, etc.
       
     image: images/service/cv.svg
 

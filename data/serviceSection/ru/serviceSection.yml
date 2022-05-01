@@ -29,7 +29,7 @@ service:
 
       Разработка систем компьютерного зрения. 
 
-      OpenCV, Pytorch, CUDA, ONNX, TensorRT, подбор сенсоров и пр.
+      OpenCV, Pytorch, TensorFlow, ONNX, TensorRT, подбор сенсоров, калибровка сенсоров, clearML и пр.
       
     image: images/service/cv.svg
 
