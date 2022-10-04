@@ -8,15 +8,9 @@ title: >
 
 service:
   - content: >
-      #### Robotics 
-
-      Robotics control, kinematics and dynamics. 
-      
-    image: images/service/robot.svg
-  - content: >
       #### Programming
 
-      Python, C, MATLAB and C++. 
+      Python, C and C++. 
       
       
       Various tasks that need to be programmed.
@@ -29,26 +23,6 @@ service:
       The development of computer vision systems. 
 
 
-      OpenCV, Pytorch, TensorFlow, Deployment, sensors choose, sensors calbiration, clearML, etc.
+      OpenCV, Pytorch, TensorFlow, Deployment, sensors choose, sensors calibration, clearML, etc.
       
     image: images/service/cv.svg
-
-  # - content: >
-  #     #### Arduino 
-
-  #     I'd be glad to participate in any projects related to Arduino. 
-      
-      
-  #     It's user-friendly and it's a great solution for prototyping.
-
-
-  #   image: images/service/arduino.svg
-
-  # - content: >
-  #     #### Web Design 
-
-  #     I've finished half-yearly web design course in 2019. 
-      
-      
-  #     I can design presentation, checkbooks, favicons, posts, easy logos, static adverts, e.t.c. 
-  #   image: images/service/ui-ux.svg

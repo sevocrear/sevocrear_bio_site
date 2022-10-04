@@ -93,19 +93,29 @@ experience:
       
       ###### Computer Vision Engineer
 
-      I participate in projects with autonomous vehicles and aircrafts
+      - Developed LED computer vision system for UAV day-night landing site position and orientation
 
-      * Developed UAV visual positioning system for high-precision autonomous landing
+      - Contributed to the UAV landing zone detection system for the task of safe autonomous landing
 
-      * Contributed to UAV landing zone detection system for the task of safe autonomous landing
+      - Developed a LDWS system (attention). Was responsible for neural network output processing and deployment, software implementation of the algorithm, and camera operation.
 
-      * Developed LDWS for the bus. I was responsible for processing the output of the neural network, deployment and the proper operation of the camera.
-      
-      * Neural networks deployment and sensor calibration on KAMAZ truck
+      - (Auto)collecting data from sensors, gathering images for the project, etc.
+
+      - Sensor calibration, getting internal and external parameters
+
+      - Realization of 360 * view from cameras (BEV)
+
+      - Sensor fusion 
+
+      - Sensors selection for different projects
+
+      - neural networks deployment
+
+      - Model output post-processing
 
       ###### Achievements: 
       
-      * IEEE articles
+      * 2 RSCI papers and 1 IEEE paper
 
     time: 2021, feb --
 
