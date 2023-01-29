@@ -5,40 +5,25 @@ content: >
   ## Почему Именно Я?
 
   
-  Моя цель - построить профессиональный и качественный продукт. Ниже вы можете увидеть основной список моих навыков
+  Ниже Вы увидите основной набор навыков, которыми я обладаю как специалист
 
 image: images/skill/skill_image.png
 
 skill:
-  - title: ROS 1/2
-    percent: 80
-
-  - title: Git
-    percent: 80
-
-  - title: Docker
-    percent: 80
-
-  - title: Python
-    percent: 85
-
-  - title: MATLAB
-    percent: 70  
-
-  - title: C++
-    percent: 60
-
-  - title: OpenCV
-    percent: 90
-
-  - title: Pytorch
-    percent: 70
-
-  - title: NN-Deployment
-    percent: 65
+  - title: ROS 1 | 2
   
-  - title: clearML
-    percent: 65
+  - title: Python, C++
 
-  - title: TeX
-    percent: 80
+  - title: OpenCV, TensorRT, PyTorch
+  
+  - title: ClearML, обучение, тюнинг и оптимизация нейронных сетей
+  
+  - title: классические методы компьютерного зрения
+
+  - title: Слежение за объектами, обнаружение и сегментация
+
+  - title: Linux, Git, Bash
+
+  - title: Tex
+
+  - title: Английский язык

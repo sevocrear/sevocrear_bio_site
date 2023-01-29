@@ -2,42 +2,27 @@
 enable: true
 topTitle: My Skills
 content: >
-  ## Why hire me for your next project?
+  ## Why get in touch?
 
-  My goal is to build the professional and easy-to-implement project. Below you can see the main list of my hard skills
+  Below you will see a basic set of skills that I have as a specialist
 
 image: images/skill/skill_image.png
 
 skill:
-  - title: ROS 1/2
-    percent: 80
-
-  - title: Git
-    percent: 80
-
-  - title: Docker
-    percent: 80
-
-  - title: Python
-    percent: 85
-
-  - title: MATLAB
-    percent: 70  
-
-  - title: C++
-    percent: 60
-
-  - title: OpenCV
-    percent: 90
-
-  - title: Pytorch
-    percent: 70
-
-  - title: NN-Deployment
-    percent: 65
+  - title: ROS 1 | 2
   
-  - title: clearML
-    percent: 65
+  - title: Python, C++
 
-  - title: TeX
-    percent: 80
+  - title: OpenCV, TensorRT, PyTorch
+  
+  - title: ClearML, neural nets training, tuning, and optimization
+  
+  - title: Classical computer vision techniques
+
+  - title: Object tracking, detection and segmentation
+
+  - title: Linux, Git, Bash
+
+  - title: Tex
+
+  - title: English

@@ -4,7 +4,7 @@ topTitle: Working Area
 title: >
   ## Services I Provide
 
-  Here is the list of services I am pleased to provide. Even if something you are interesting in isn't presented below, you can still try to contact me.
+  I offer the following services. If you have a different need, feel free to reach out to me.
 
 service:
   - content: >
@@ -23,6 +23,16 @@ service:
       The development of computer vision systems. 
 
 
-      OpenCV, Pytorch, TensorFlow, Deployment, sensors choose, sensors calibration, clearML, etc.
+      * OpenCV
+
+      * Pytorch, TensorFlow
+      
+      * Nets Deployment, optimization 
+      
+      * sensors selection, sensors calibration
+
+      * Object Detection, Segmantion, Tracking
+      
+      * classical approaches, etc.
       
     image: images/service/cv.svg

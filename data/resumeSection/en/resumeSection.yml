@@ -18,6 +18,14 @@ tab2Target: experience
 education:
 
   - content: >
+      ####  C++ Developer Specialization
+
+      I am taking a year-long SkillFactory course to learn in-depth C++ programming skills
+
+      * [Certificate](./not_yet.png)
+    time: nov, 2022 - nov, 2023
+
+  - content: >
       ####  Sequence Models
 
       Completed 5th course in Deep Learning specialization from DeepLearning.AI.
@@ -89,7 +97,28 @@ education:
 experience:
 
   - content: >
-      #### Autonomous Technologies Laboratory, Innopolis, Russia
+      #### TechTrans
+      
+      ###### Computer Vision Engineer / Team Lead
+
+      - Prototype of the system for tracking violations on rails
+
+      - Railroad Simulator, which allowed to save resources on debugging algorithms and providing experiments
+
+      - Sensors selection
+
+      - Models training, datasets aggregation and augmentation with use of ClearML
+
+      - Objects tracking, detection
+
+      - Project management, problem solving, leading a team of 3 specialists
+
+      - Disparity and depth estimation
+
+    time: mar, 2022 - dec, 2022
+
+  - content: >
+      #### Autonomous Technologies Laboratory
       
       ###### Computer Vision Engineer
 
@@ -115,12 +144,12 @@ experience:
 
       ###### Achievements: 
       
-      * 2 RSCI papers and 1 IEEE paper
+      * 2 RSCI papers, 2 IEEE paper and 1 patent
 
     time: 2021, feb --
 
   - content: >
-      #### Aerobot 2020 Competition, Taganrog, Russia
+      #### Aerobot 2020 Competition
       
       ###### Computer Vision
 

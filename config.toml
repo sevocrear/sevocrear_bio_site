@@ -61,7 +61,7 @@ DefaultContentLanguage = "en"
     weight = 2
 
     [languages.en.params.address]
-    address = "420500 Innopolis, Russia"
+    address = "Innopolis"
     email = "sevocrear@gmail.com"
     telegram = "sevocrear"
     openingHours = "Open from 8 a.m. to 8 p.m."

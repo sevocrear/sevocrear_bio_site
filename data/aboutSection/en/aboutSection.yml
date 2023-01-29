@@ -4,7 +4,6 @@ enable: true
 title: >
   ## About me
 
-  Computer Vision engineer, robotics engineer
 content: >
   ### I program and design computer vision systems.
 
@@ -34,7 +33,7 @@ content: >
 
 
 
-button1Name: Hire me
+button1Name: Get In Touch
 button2Name: Download CV
 button1Target: en/contact
 button2Target: en/files/CV/Ilia_Sevostianov_CV.pdf

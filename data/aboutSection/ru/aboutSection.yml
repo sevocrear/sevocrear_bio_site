@@ -3,8 +3,6 @@ enable: true
 # topTitle: Info
 title: >
   ##  Обо мне
-
-  Инженер-разработчик по компьютерному зрению
   
 content: >
   ### Программирую и проектирую системы компьютерного зрения.
@@ -34,7 +32,7 @@ content: >
     * слежение за объектами и так далее...
 
   
-button1Name: Нанять меня
+button1Name: Связаться
 button2Name: Загрузить CV
 button1Target: ru/contact
 button2Target: ru/files/CV/Ilia_Sevostianov_RU_CV.pdf
