@@ -5,9 +5,22 @@ title: >
   ## About me
 
 content: >
-  ### I program and design computer vision systems.
+  ### I take part in programming and designing computer vision systems.
 
   I already have the following projects in my piggy bank:
+    * advanced driver-assistance systems (LDWS, LCA, ACC, TLR, TSR, etc);
+
+    * CARLA simulation for autonomous vehicle functions development and testing;
+
+    * Auto-deploy of services into the ego by using Ansible;
+
+    * Implementation of circular bird-eye view for mobile robots;
+
+    * 3D - to - 2D projection and vice versa for the objects;
+
+    * Objects and lanes tracking for autonomous ego;
+
+    * sensor data fusion, sensor intrinsics-and-extrinsics calibration;
 
     * UAV lane tracking;
 
@@ -19,17 +32,11 @@ content: >
 
     * car wash monitoring;
 
-    * control of a four-legged robot (a dog);
-
-    * advanced driver-assistance systems (LDWS...);
-
     * unmanned special purpose vehicles;
 
-    * sensor data fusion, sensor intrinsics-and-extrinsics calibration;
+    * etc.
 
-    * Implementation of circular bird-eye view for mobile robots;
 
-    * Object tracking and so on.
 
 
 
