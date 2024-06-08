@@ -15,6 +15,6 @@ hugo
 ```
 3. Copy it to the we site git repo
 ```
-cp -r public/* ../sevocrear.github.io/
+yes | cp -r public/* ../sevocrear.github.io/
 ```
 4. update both repos
