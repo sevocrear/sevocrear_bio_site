@@ -4,23 +4,23 @@ topTitle: Мои Навыки
 content: >
   ## Почему Именно Я?
 
-  
+
   Ниже Вы увидите основной набор навыков, которыми я обладаю как специалист
 
 image: images/skill/skill_image.png
 
 skill:
   - title: ROS 1 | 2
-  
+
   - title: Python, C++
 
   - title: OpenCV, TensorRT, PyTorch
-  
+
   - title: ClearML, обучение, тюнинг и оптимизация нейронных сетей
-  
+
   - title: классические методы компьютерного зрения
 
-  - title: Слежение за объектами, обнаружение и сегментация
+  - title: Слежение за объектами, обнаружение и сегментация, и т. д.
 
   - title: Linux, Git, Bash
 

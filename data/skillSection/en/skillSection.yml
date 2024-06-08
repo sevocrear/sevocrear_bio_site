@@ -10,16 +10,16 @@ image: images/skill/skill_image.png
 
 skill:
   - title: ROS 1 | 2
-  
+
   - title: Python, C++
 
   - title: OpenCV, TensorRT, PyTorch
-  
+
   - title: ClearML, neural nets training, tuning, and optimization
-  
+
   - title: Classical computer vision techniques
 
-  - title: Object tracking, detection and segmentation
+  - title: Object tracking, detection and segmentation, etc
 
   - title: Linux, Git, Bash
 

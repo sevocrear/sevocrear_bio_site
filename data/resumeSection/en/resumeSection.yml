@@ -4,10 +4,10 @@ topTitle: My Resume
 title: >
   ## My Expertises
 
-  Clicking on "Education" button you can see the universities, some courses I graduated. 
-  
+  Clicking on "Education" button you can see the universities, some courses I graduated.
 
-  Clicking on "Experiences" button you can find the list of jobs and big projects, competitions I was involved in.  
+
+  Clicking on "Experiences" button you can find the list of jobs and big projects, competitions I was involved in.
 
 
 tab1Name: Education
@@ -20,9 +20,9 @@ education:
   - content: >
       ####  C++ Developer Specialization
 
-      I am taking a year-long SkillFactory course to learn in-depth C++ programming skills
+      Completed a year-long course in advanced C++ programming
 
-      * [Certificate](./not_yet.png)
+      * [Certificate](../../../en/files/cpp_en.pdf)
     time: nov, 2022 - nov, 2023
 
   - content: >
@@ -36,7 +36,7 @@ education:
   - content: >
       ####  Convolutional Neural Networks
 
-      
+
       Completed 4th course in Deep Learning specialization from DeepLearning.AI.
 
       * [Certificate](https://www.coursera.org/account/accomplishments/certificate/BE4BCELFSMGP)
@@ -45,7 +45,7 @@ education:
   - content: >
       ####  Structuring Machine Learning Projects
 
-      
+
       Completed 3rd course in Deep Learning specialization from DeepLearning.AI.
 
       * [Certificate](https://www.coursera.org/account/accomplishments/certificate/VU3YWM6EYQ4J)
@@ -54,7 +54,7 @@ education:
   - content: >
       #### Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
 
-      
+
       Completed 2nd course in Deep Learning specialization from DeepLearning.AI.
 
       * [Certificate](https://www.coursera.org/account/accomplishments/certificate/Y5KRD3B3RT95)
@@ -64,7 +64,7 @@ education:
   - content: >
       #### Neural Networks and Deep Learning
 
-      
+
       Completed the 1st course from DeepLearning.AI about neural networks.
 
       * [Certificate](https://www.coursera.org/account/accomplishments/certificate/2Z4YTDCCHFZU)
@@ -76,10 +76,10 @@ education:
 
       Graduated Innopolis University. Thesis project was dedicated to the dynamic walking of quadruped robot
 
-      ###### Achievements: 
+      ###### Achievements:
 
       * [Diploma for excellent academic achievements in Autumn and Spring Semesters in 2020 year](../../../en/files/inno_diploma_excellent_academic.jpg)
-      
+
       * [Diploma for outstanding contribution to science, 2021 year](../../../ru/files/diploma_for_outstanding_contribution_to_science.jpg)
     time: 2019-2021
 
@@ -88,7 +88,7 @@ education:
 
       Graduated Bauman Moscow State Technical University. Thesis project was dedicated to the development and control of a vertical walking three-link robot
 
-      ###### Achievements: 
+      ###### Achievements:
 
       * The best student of the robotics department (2018)
 
@@ -98,7 +98,7 @@ experience:
 
   - content: >
       #### TechTrans
-      
+
       ###### Computer Vision Engineer / Team Lead
 
       - Prototype of the system for tracking violations on rails
@@ -119,7 +119,7 @@ experience:
 
   - content: >
       #### Autonomous Technologies Laboratory
-      
+
       ###### Computer Vision Engineer
 
       - Developed LED computer vision system for UAV day-night landing site position and orientation
@@ -134,7 +134,7 @@ experience:
 
       - Realization of 360 * view from cameras (BEV)
 
-      - Sensor fusion 
+      - Sensor fusion
 
       - Sensors selection for different projects
 
@@ -142,32 +142,32 @@ experience:
 
       - Model output post-processing
 
-      ###### Achievements: 
-      
+      ###### Achievements:
+
       * 2 RSCI papers, 2 IEEE paper and 1 patent
 
     time: 2021, feb --
 
   - content: >
       #### Aerobot 2020 Competition
-      
+
       ###### Computer Vision
 
-      "Racoon Lab" team. 
+      "Racoon Lab" team.
 
       * Developed ROS node so drone could follow the line on the ground
 
       * Designed ROS node so drone could alocate the landing site and remember it in order to return back after completing the mission
 
-      ###### Achievements: 
-      
+      ###### Achievements:
+
       * Winning a competition
 
     time: 2019, oct - 2020, nov
 
   - content: >
       #### Innopolis University Robotics Lab, Innopolis, Russia
-      
+
       ###### Intern
 
       * Developed computer vision for UR10 manipulator in order to get ping-pong ball position using RealSense D435i w.r.t. the robot base.
@@ -178,7 +178,7 @@ experience:
 
   - content: >
       #### JBL Robotics, Moscow, Russia
-      
+
       ###### Engineering Assistant
 
       * Developed ROS nodes to control the barista robot

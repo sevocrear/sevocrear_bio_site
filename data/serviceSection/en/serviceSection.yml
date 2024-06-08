@@ -10,29 +10,31 @@ service:
   - content: >
       #### Programming
 
-      Python, C and C++. 
-      
-      
+      Python, and C++.
+
+
       Various tasks that need to be programmed.
-      
+
     image: images/service/program.svg
 
   - content: >
       #### Computer Vision
 
-      The development of computer vision systems. 
+      The development of computer vision systems.
 
 
       * OpenCV
 
-      * Pytorch, TensorFlow
-      
-      * Nets Deployment, optimization 
-      
+      * Pytorch, TensorFlow, tensorRT
+
+      * Nets Deployment, optimization
+
       * sensors selection, sensors calibration
 
       * Object Detection, Segmantion, Tracking
-      
+
+      * Multi-task neural networks
+
       * classical approaches, etc.
-      
+
     image: images/service/cv.svg
